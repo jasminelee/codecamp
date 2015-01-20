@@ -10,6 +10,8 @@ Children International Website <a href="https://www.children.org/">here</a>.
 To run locally, update the template directory in /codecamp/ciMap/ciMap/settings.py and run ```python manage.py runserver ```
 from /codecamp/ciMap
 
+Built using Django, BeautifulSoup, and BootStrap.
+
 ### Map with locations of community centres run by Children International
 ![Screenshot](/codecamp/ciMap/app/static/images/screen.png?raw=true "Map")
 
